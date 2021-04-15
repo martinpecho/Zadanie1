@@ -1,1 +1,3 @@
 Navrh weboveho crawlera
+
+Anotacia.
